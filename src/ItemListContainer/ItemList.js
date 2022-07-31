@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import Item from "./Item"
 
 const ItemList = () => {
-  const [itemList, setitem] = useState([
+  const [itemList, setItem] = useState([
     {
         id: 1,
         name: "Samsung S21 FE 5G",
